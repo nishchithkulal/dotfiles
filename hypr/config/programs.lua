@@ -1,5 +1,0 @@
-terminal = "alacritty"
-fileManager = "dolphin"
-menu = "hyprlauncher"
-browser = "zen-browser"
-lock = "hyprlock"
